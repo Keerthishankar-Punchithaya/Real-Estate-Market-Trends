@@ -14,9 +14,7 @@ Establish the connection between SQL DataBase, PowerBI, python dataframes to get
 **3. Visualization and Reporting:**
 Visualization and Reporting done using powerBI
 <br/>
-<img src="https://github.com/Keerthishankar-Punchithaya/Real-Estate-Market-Trends/blob/main/screenshots/dashboard1.png?raw=true" width="500" height="300">
-<img src="https://github.com/Keerthishankar-Punchithaya/Real-Estate-Market-Trends/blob/main/screenshots/dashboard2.png?raw=true" width="500" height="300">
-<img src="https://github.com/Keerthishankar-Punchithaya/Real-Estate-Market-Trends/blob/main/screenshots/dashboard3.png?raw=true" width="500" height="300">
+<img src="https://github.com/Keerthishankar-Punchithaya/Real-Estate-Market-Trends/blob/main/screenshots/dashboard5.png?raw=true" width="500" height="300">
 <br/>
 
 **4. Documentation and Presentation:**
