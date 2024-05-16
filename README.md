@@ -19,3 +19,6 @@ Visualization and Reporting done using powerBI
 
 **4. Documentation and Presentation:**
 [PPT Slides](https://docs.google.com/presentation/d/1vkBQzQ5Yor4s2vO_fc6d1YuXuMT_7NIOfx9AQzvYIWU/edit?usp=sharing)
+
+**5. Certificate:**
+[Link](https://certs.masaischool.com/certificate/cww-b35-ft30_129)
